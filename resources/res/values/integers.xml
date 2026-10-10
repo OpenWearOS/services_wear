@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_automaticBatterySaverModeEntryPercentage">10</integer>
+    <integer name="config_automaticBatterySaverModeExitPercentage">90</integer>
+    <integer name="config_defaultAlarmVibrationIntensity">-1</integer>
+    <integer name="config_defaultNotificationVibrationIntensity">-1</integer>
+    <integer name="config_defaultRingVibrationIntensity">-1</integer>
+    <integer name="config_defaultRotaryEncoderWakeSetting">1</integer>
+    <integer name="config_displayOffloadApiPreference">2</integer>
+    <integer name="config_onDisplayOffloadUpdateDozeIntervalMs">0</integer>
+    <integer name="config_rotaryEncoderGuardAfterWakeMillis">2000</integer>
+    <integer name="config_sidekickBrightenAlpha">80</integer>
+    <integer name="config_sidekickDimmingAlpha">80</integer>
+    <integer name="config_twmBrightnessFixedBright">102</integer>
+    <integer name="config_twmBrightnessFixedDim">1</integer>
+    <integer name="config_twmDurationOfBrightState">10000</integer>
+    <integer name="config_userAbsentInteractivityTimeout">2400000</integer>
+</resources>

@@ -1,0 +1,7 @@
+java_library {
+    name: "services.wear",
+    installable: true,
+    platform_apis: true,
+    srcs: ["java/**/*.java"],
+    libs: ["services.core"],
+}

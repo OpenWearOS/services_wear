@@ -1,0 +1,9 @@
+android_app {
+    name: "WearResources",
+    sdk_version: "system_current",
+    certificate: "platform",
+    manifest: "AndroidManifest.xml",
+    resource_dirs: ["res"],
+    optimize: { enabled: false },
+    dex_preopt: { enabled: false },
+}

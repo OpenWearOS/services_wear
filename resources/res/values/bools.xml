@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_automaticBatterySaverModeSupported">false</bool>
+    <bool name="config_disableAODWhilePlugged">false</bool>
+    <bool name="config_disableAmbientInSchoolMode">true</bool>
+    <bool name="config_disableAmbientInTheaterMode">true</bool>
+    <bool name="config_disableImageMaskBurnInProtection">false</bool>
+    <bool name="config_disableSystemBatterySaverForCustomization">false</bool>
+    <bool name="config_disableTiltToWakeInSchoolMode">true</bool>
+    <bool name="config_disableTouchWhenOffBody">false</bool>
+    <bool name="config_displayOffload_disableTtbWhenAodOff">true</bool>
+    <bool name="config_displayOffload_disableTtbWhenLocked">true</bool>
+    <bool name="config_enableQuickDozeInBatterySaverMode">false</bool>
+    <bool name="config_enableQuickDozeInBedtimeMode">false</bool>
+    <bool name="config_enableQuickDozeInSchoolMode">true</bool>
+    <bool name="config_enableQuickDozeWhenOffBody">true</bool>
+    <bool name="config_enableRemoteAnimationsForGlobalTransitions">true</bool>
+    <bool name="config_enableWearBatterySaver">false</bool>
+    <bool name="config_enableWearSchoolMode">false</bool>
+    <bool name="config_enableWearTouchLockMode">true</bool>
+    <bool name="config_longPressEnabledPowerMenu">true</bool>
+    <bool name="config_rotaryEncoderWakeEnabled">false</bool>
+    <bool name="config_rotaryEncoderWakeEnabledDuringBedtimeMode">false</bool>
+    <bool name="config_showEmergencyCallPowerMenu">true</bool>
+    <bool name="config_systemTracePowerMenu">false</bool>
+    <bool name="config_twmAlwaysOnScreen">false</bool>
+    <bool name="config_twmAutoBrightness">false</bool>
+    <bool name="config_twmBrightenOnWristTilt">true</bool>
+    <bool name="config_useFixedTwmBrightness">false</bool>
+    <bool name="config_wearEsimDevice">false</bool>
+    <bool name="config_writeTouchLockStateToSysProp">false</bool>
+</resources>
